@@ -1,0 +1,6 @@
+services:
+  http_middleware.lunasecurity:
+    class: Drupal\lunasecurity\StackMiddleware\RemoveHttpHeadersMiddleware
+    tags:
+      - { name: http_middleware, priority: 1000, responder: true }
+

@@ -1,0 +1,5 @@
+name: Luna Security
+type: module
+description: Improves security.
+core_version_requirement: ^9
+package: Luna

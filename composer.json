@@ -1,0 +1,16 @@
+{
+    "name": "acrosto/lunasecurity",
+    "description": "Improves Drupal security.",
+    "type": "acrosto-drupal-module",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Luna",
+            "homepage": "https://lunadxp.com/",
+            "email": "lunadxp@acrosto.com"
+        }
+    ],
+    "require": {
+        "drupal/core": "^9.0"
+    }
+}
